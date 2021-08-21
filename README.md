@@ -1,6 +1,6 @@
 # Curso de Desenvolvimento WEB 🖥
 
-### Esse curso visa tanto o frontend como também o backend de uma aplicação, sendo assim o conteúdos abordados são
+### Esse curso visa tanto o frontend como também o backend de uma aplicação, sendo assim os conteúdos abordados são
 - JavaScript
 - Node
 - HTML5
