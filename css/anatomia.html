@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>Anatomia CSS</title>
+    <style>
+        .selector {
+            background-color: purple;
+            color: white;
+            font-size: 30px;
+            text-align: left;
+            /* multiplos valores*/
+            border: solid 3px yellow;
+            font-family: 'Rubik', sans-serif; /*pode ser usado o google fonts*/
+            /* funções */
+            width: calc(100% - 40px);
+        }
+
+        /* usando uma pseudoclasse */
+        .selector:hover {
+            text-align: center;
+            color: purple;
+            background-color: white;
+        }
+
+        /* usando pseudoelementos */
+        .selector::first-letter{
+            font-size: 35px;
+            font-weight: bold;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="selector">Conteúdo</div>
+</body>
+
+</html>
