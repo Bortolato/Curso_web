@@ -1,0 +1,20 @@
+## HTML, CSS e JavaScript
+
+- HTML é a parte estrutural
+- CSS é a estilização
+- JavaScript dinamismo
+
+## DNS
+
+- Mapeamento de um domínio para um número de IP
+- Busca recursiva do DNS
+- Busca iterativa
+
+## HTTPSeguro
+
+- HTTP + TLS ou HTTP + SSL
+- Certificado usado com SSL/TLS
+- Criptografias ( todas as informações )
+- Proteger contra interceptações
+- Usa certificados digitais (autoridade certificadoras)
+- Let's encrypt (colocar o https no servidor sem pagar)
