@@ -1,0 +1,25 @@
+# Introdução a web
+
+## topologias da web:
+
+- centralizada
+- distribuída (teia)
+
+Protocolo TCP/IP X UDP
+
+- Handshaking e segurança
+- em contrapartida o UDP é mais leve
+- cada camada bem modularizada
+- camada física -> camada de enlace -> camada de rede -> camada de transporte -> camada de aplicação
+
+Identificação de rede e host
+
+## Client-Server
+
+- aplicação server-side
+- aplicação client-side front-end + services (rica)
+
+## Conteúdo estático e dinâmico
+
+- Para o dinâmico o servidor gera algum conteúdo através de alguma consulta ou um código 
+- apenas o servidor lendo e gerando a mesma página

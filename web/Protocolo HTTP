@@ -1,0 +1,29 @@
+# HTTP - Hyper Text
+
+- Camada de aplicação
+- Stateless
+- Cliente - Servidor
+
+1 - Usuário informa um url
+2 - Browser gera a requisição (get, post)
+3 - Servidor web gera a resposta
+4 - Browser exibe a página
+
+## Métodos
+
+- get (os parâmetro vão no próprio url)
+- post (os parâmetro vão no corpo)
+- put
+- delete
+- options
+- connect
+- head
+
+## Grupos de status
+
+- 1xx - informação
+- 2xx - sucesso
+- 3xx - redirecionamento
+- 4xx - erro no cliente
+- 5xx - erro no servidor
+
