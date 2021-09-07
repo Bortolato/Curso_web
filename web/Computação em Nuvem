@@ -1,0 +1,15 @@
+# Computação em nuvem
+
+- A virtualização é a base
+- Paga pelo seu uso, da mesma forma que água, luz...
+- Pode aumentar e diminuir a infraestrutura de acordo com a demanda
+- Fácil de escalonar quando tiver picos de acessos e consumo
+
+## IAAS
+- Nuvem de infraestrutura (amazon  é a maior - AWS)
+
+## PAAS
+- Plataforma como serviço (google cloudPlatform)
+
+## SAAS
+- Software como serviço

@@ -1,0 +1,19 @@
+#Web Services
+
+- Serviços de web que trabalha com transações de mensagens textuais
+
+## SOAP (Simple Object Acess Protocol)
+- Mais burocrático para ser usado e mais antigo
+- XML que descreve como sera o web services
+
+## REST (Representation state transfer)
+- Mais simples e novo
+- JSON, HTTP (pode retorna XML ou textuais)
+- Uso de métodos de HTTP
+- URL / Método / Descrição (ex. /cliente POST Novo cliente)
+
+## Arquitetura SOA
+- orientada a serviços
+
+## Arquitetura micro-serviços
+- orientada a micro-serviços superespecializados
